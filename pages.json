@@ -1,34 +1,42 @@
 [
     {
         "title": "Royal Road | Follow Page",
-        "url": "https://www.royalroad.com/my/follows"
+        "url": "https://www.royalroad.com/my/follows",
+        "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
     },
     {
         "title": "Royal Road | Read Later Page",
-        "url": "https://www.royalroad.com/my/readlater"
+        "url": "https://www.royalroad.com/my/readlater",
+        "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
+    },
+    {
+        "title": "Asura Scans",
+        "url": "https://www.asurascans.com/",
+        "image": "https://haroonarfan.github.io/Bravo-Page/Group_1.webp"
     },
     {
         "title": "Royal Road | History",
-        "url": "https://www.royalroad.com/my/history"
+        "url": "https://www.royalroad.com/my/history",
+        "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
     },
     {
         "title": "Royal Road | Favourites",
-        "url": "https://www.royalroad.com/my/favorites"
+        "url": "https://www.royalroad.com/my/favorites",
+        "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
     },
     {
         "title": "Royal Road | Notifications",
-        "url": "https://www.royalroad.com/notifications/list"
+        "url": "https://www.royalroad.com/notifications/list",
+        "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
     },
-{
-"title": "Asura Scans",
-"url": "https://www.asurascans.com/"
-},
-{
-"title": "Github Edit",
-"url": "https://github.com/haroonarfan/Bravo-Page/edit/main/pages.json"
-},
-{
-"title": "Search Royal Road",
-"url": "https://www.royalroad.com/fictions/search"
-}
+    {
+        "title": "Github Edit",
+        "url": "https://github.com/haroonarfan/Bravo-Page/edit/main/pages.json",
+        "image": "https://haroonarfan.github.io/Bravo-Page/GitHub-Mark.png"
+    },
+    {
+        "title": "Search Royal Road",
+        "url": "https://www.royalroad.com/fictions/search",
+        "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
+    }
 ]
