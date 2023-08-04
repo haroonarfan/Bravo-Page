@@ -4,7 +4,7 @@
         "url": "https://www.royalroad.com/my/follows",
         "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
     },
-{
+    {
         "title": "Reaper Scans | Novels and Comics",
         "url": "https://reaperscans.com/",
         "image": "https://haroonarfan.github.io/Bravo-Page/logo-reaper-2.png"
@@ -44,9 +44,19 @@
         "url": "https://www.royalroad.com/fictions/search",
         "image": "https://haroonarfan.github.io/Bravo-Page/android-chrome-192x192.png"
     },
-{
-"title": "Manga Clash",
+    {
+        "title": "Manga Clash",
         "url": "https://mangaclash.com/",
-"image": "https://mangaclash.com/wp-content/uploads/2020/02/clash.png"
-}
+        "image": "https://mangaclash.com/wp-content/uploads/2020/02/clash.png"
+    },
+    {
+        "title": "Light Novel Cave",
+        "url": "https://lightnovelcafe.com/home/",
+        "image": "https://www.google.com/s2/favicons?sz=64&domain=lightnovelcave.com"
+    },
+    {
+        "title": "Kemono Library",
+        "url": "https://kemono.party/favorites",
+        "image": "https://www.google.com/s2/favicons?sz=64&domain=kemono.party"
+    }
 ]
